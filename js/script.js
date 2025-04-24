@@ -181,10 +181,7 @@ document.addEventListener('DOMContentLoaded', function() {
      */
     function setupCarousel() {
         const carouselImages = [
-            "images/blog/childrens-home.jpeg",
-            "images/blog/animal-shelter.jpg",
-            "images/blog/orphanage.jpg",
-            "images/blog/elderly-engagement.jpg"
+            "images/blog/childrens-home.jpeg"
         ];
         
         const carouselImage = document.querySelector('.carousel-image');
